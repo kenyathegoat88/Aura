@@ -21,7 +21,7 @@ local v14 =
 			content = "***¡Script ejecutado con éxito!***",
 			embeds = {
 				{
-					title = "**¡W-KTC Hub Ejecutado!**",
+					title = "**¡Scipt Hub Ejecutado!**",
 					description = v6 .. " | Apodo del Jugador",
 					color = tonumber(16777215),
 					thumbnail = {
